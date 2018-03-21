@@ -1,3 +1,7 @@
+/*
+ * Performs a few tests to test linkedlist implementation
+ * Victor Cheruiyot
+ */  
 #include "linkedlist.h"
 #include "prototypes.h"
 #include <stdio.h>
