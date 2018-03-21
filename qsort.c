@@ -1,3 +1,6 @@
+/*
+ * Code by Victor Cheruiyot
+ */
 #include "prototypes.h"
 #include <stdio.h>
 #include <stdlib.h>
