@@ -1,3 +1,8 @@
+/*
+ * Complete linkedlist implementation by Victor Cheruiyot
+ * Please read the comments from every function to be able to properly
+ * call and use linkedlist
+ */
 #include "linkedlist.h"
 #include <assert.h>
 #include <stdlib.h>
@@ -5,8 +10,8 @@
 #include <stdbool.h>
 
 /*
-* Thus function creates a new node by dyanamically allocated memory from the heap.
-* If unable to dynamically allocate memory we return an error message,
+* This function creates a new node by dynamically allocating memory from the heap.
+* If unable to dynamically allocate memory asserts.
 */
 linked_list *create_list(size_t elemsize, call_free f){
 	linked_list *the_list = malloc(sizeof(struct linked_list));
