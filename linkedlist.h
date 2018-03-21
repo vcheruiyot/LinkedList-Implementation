@@ -6,7 +6,7 @@
  * object in any object-oriented programming language. This data
  * structure is particularly useful and has it distinct advantages. 
  *
- * CS 107 Victor Cheruiyot
+ * Victor Cheruiyot
  *
  */
 #ifndef _linked_list_h
