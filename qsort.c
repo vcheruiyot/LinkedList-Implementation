@@ -1,7 +1,7 @@
 /*
  * Code by Victor Cheruiyot
  */
-#include "prototypes.h"
+#include "samples/prototypes.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
