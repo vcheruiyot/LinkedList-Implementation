@@ -1,4 +1,4 @@
-#include "prototypes.h"
+#include "samples/prototypes.h"
 #include <stdlib.h>
 #include <limits.h>
 #include <assert.h>
