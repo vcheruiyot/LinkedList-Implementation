@@ -3,7 +3,7 @@
  * Victor Cheruiyot
  */  
 #include "linkedlist.h"
-#include "prototypes.h"
+#include "samples/prototypes.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <error.h>
